@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData">
     <serverData>
       <paths name="root@connect.beijinga.seetacloud.com:35861 password">
         <serverdata>
@@ -47,14 +48,22 @@
       <paths name="root@connect.westb.seetacloud.com:15825 password (2)">
         <serverdata>
           <mappings>
+<<<<<<< HEAD
             <mapping deploy="/root/autodl-tmp/Omni-Seg_revision" local="$PROJECT_DIR$" />
+=======
+            <mapping local="$PROJECT_DIR$" web="/" />
+>>>>>>> ff4fc77a8c56c6eaaffd281ed94617f41d574e90
           </mappings>
         </serverdata>
       </paths>
       <paths name="root@connect.westb.seetacloud.com:15825 password (3)">
         <serverdata>
           <mappings>
+<<<<<<< HEAD
             <mapping deploy="/root/autodl-tmp/Omni-Seg_revision" local="$PROJECT_DIR$" />
+=======
+            <mapping local="$PROJECT_DIR$" web="/" />
+>>>>>>> ff4fc77a8c56c6eaaffd281ed94617f41d574e90
           </mappings>
         </serverdata>
       </paths>
@@ -75,7 +84,11 @@
       <paths name="root@connect.westb.seetacloud.com:15825 password (6)">
         <serverdata>
           <mappings>
+<<<<<<< HEAD
             <mapping deploy="/root/autodl-tmp/Omni-Seg_revision" local="$PROJECT_DIR$" />
+=======
+            <mapping local="$PROJECT_DIR$" web="/" />
+>>>>>>> ff4fc77a8c56c6eaaffd281ed94617f41d574e90
           </mappings>
         </serverdata>
       </paths>
@@ -89,14 +102,22 @@
       <paths name="root@connect.westb.seetacloud.com:28224 password">
         <serverdata>
           <mappings>
+<<<<<<< HEAD
             <mapping deploy="/root/autodl-tmp/Omni-Seg_revision" local="$PROJECT_DIR$" />
+=======
+            <mapping local="$PROJECT_DIR$" web="/" />
+>>>>>>> ff4fc77a8c56c6eaaffd281ed94617f41d574e90
           </mappings>
         </serverdata>
       </paths>
       <paths name="root@connect.westb.seetacloud.com:38937 password">
         <serverdata>
           <mappings>
+<<<<<<< HEAD
             <mapping deploy="/root/autodl-tmp/Omni-Seg_revision" local="$PROJECT_DIR$" />
+=======
+            <mapping local="$PROJECT_DIR$" web="/" />
+>>>>>>> ff4fc77a8c56c6eaaffd281ed94617f41d574e90
           </mappings>
         </serverdata>
       </paths>
@@ -117,14 +138,22 @@
       <paths name="root@connect.westb.seetacloud.com:50746 password (2)">
         <serverdata>
           <mappings>
+<<<<<<< HEAD
             <mapping deploy="/root/autodl-tmp/Omni-Seg_revision" local="$PROJECT_DIR$" />
+=======
+            <mapping local="$PROJECT_DIR$" web="/" />
+>>>>>>> ff4fc77a8c56c6eaaffd281ed94617f41d574e90
           </mappings>
         </serverdata>
       </paths>
       <paths name="root@connect.westc.gpuhub.com:14036 password">
         <serverdata>
           <mappings>
+<<<<<<< HEAD
             <mapping deploy="/root/autodl-tmp/Omni-Seg_revision" local="$PROJECT_DIR$" />
+=======
+            <mapping local="$PROJECT_DIR$" web="/" />
+>>>>>>> ff4fc77a8c56c6eaaffd281ed94617f41d574e90
           </mappings>
         </serverdata>
       </paths>
@@ -241,6 +270,9 @@
         </serverdata>
       </paths>
     </serverData>
+<<<<<<< HEAD
     <option name="myAutoUpload" value="ALWAYS" />
+=======
+>>>>>>> ff4fc77a8c56c6eaaffd281ed94617f41d574e90
   </component>
 </project>
