@@ -1,0 +1,2016 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48bd7700-f48d-4233-aec3-c90a7733d5f5" name="Changes" comment="update" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Documents/WeChat Files/wxid_iwxi1vurofnl22/FileStorage/File/2024-08/plot3.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/requirements.txt" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2Xu48QRuLngVRA5pHUEwZ3Uf27K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Validation_AttentionFullscale_OmniSeg_for_6_class_8GPU_16k.executor": "Run",
+    "Python.Validation_AttentionFullscale_OmniSeg_for_6_class_8GPU_16k_need_scale.executor": "Run",
+    "Python.Validation_AttentionUnet3plus_patch_OmniSeg_for_6_class.executor": "Run",
+    "Python.Validation_Attention_OmniSeg_for_6_class_1GPU_2k.executor": "Run",
+    "Python.Validation_Attention_OmniSeg_for_6_class_2GPU_2k_need_scale.executor": "Debug",
+    "Python.Validation_FH_Attention_Seg.executor": "Run",
+    "Python.Validation_FH_Attention_Seg_visualize.executor": "Debug",
+    "Python.Validation_FH_Seg_Attention_for_6_class_1GPU_2k.executor": "Run",
+    "Python.Validation_Unet_patch_OmniSeg_for_6_class.executor": "Run",
+    "Python.plot3.executor": "Run",
+    "Python.testnew.executor": "Run",
+    "Python.train_2D_patch_scale_aug.executor": "Debug",
+    "Python.train_2D_patch_scale_aug_AF_Unet.executor": "Run",
+    "Python.train_2D_patch_scale_aug_AF_Unet3plus.executor": "Run",
+    "Python.train_2D_patch_scale_aug_AF_Unet3plus_for_6class.executor": "Run",
+    "Python.train_2D_patch_scale_aug_AF_Unet_for_6class.executor": "Run",
+    "Python.train_2D_patch_scale_aug_AF_Unet_orin_for_6class.executor": "Debug",
+    "Python.train_2D_patch_scale_aug_AttentionUnet3Plus_for_0728_6class_fulldata_8GPU.executor": "Debug",
+    "Python.train_2D_patch_scale_aug_AttentionUnet3Plus_for_0729_6class_fulldata_1GPU.executor": "Run",
+    "Python.train_2D_patch_scale_aug_AttentionUnet3Plus_for_0729_6class_partdata_1GPU.executor": "Debug",
+    "Python.train_2D_patch_scale_aug_AttentionUnetPlusScale_0726.executor": "Debug",
+    "Python.train_2D_patch_scale_aug_AttentionUnetPlus_0726.executor": "Run",
+    "Python.train_2D_patch_scale_aug_AttentionUnetPlus_0726_HC_data (1).executor": "Run",
+    "Python.train_2D_patch_scale_aug_AttentionUnet_for_0727_6class_fulldata_8GPU.executor": "Run",
+    "Python.train_2D_patch_scale_aug_DeepLabV3 (1).executor": "Run",
+    "Python.train_2D_patch_scale_aug_DeepLabV3.executor": "Debug",
+    "Python.train_2D_patch_scale_aug_DeepLabV3_for_0727_6class_fulldata_8GPU.executor": "Run",
+    "Python.train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_1GPU.executor": "Run",
+    "Python.train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_2GPU_16K.executor": "Run",
+    "Python.train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_8GPU_16K_resume.executor": "Debug",
+    "Python.train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_8GPU_16K_resume_1gpu.executor": "Debug",
+    "Python.train_2D_patch_scale_aug_OmnisegAttention_for_6class_1GPU.executor": "Run",
+    "Python.train_2D_patch_scale_aug_OmnisegAttention_for_6class_1GPU_2K (1).executor": "Run",
+    "Python.train_2D_patch_scale_aug_OmnisegAttention_for_6class_1GPU_2K_resume.executor": "Run",
+    "Python.train_2D_patch_scale_aug_OmnisegFullscale_for_6class_newdata.executor": "Run",
+    "Python.train_2D_patch_scale_aug_Omniseg_Unet_for_6class_1GPU_newdata.executor": "Run",
+    "Python.train_2D_patch_scale_aug_Omniseg_for_6class.executor": "Debug",
+    "Python.train_2D_patch_scale_aug_Omniseg_for_6class_1GPU.executor": "Run",
+    "Python.train_2D_patch_scale_aug_Omniseg_for_6class_1GPU_newdata2.executor": "Run",
+    "Python.train_2D_patch_scale_aug_Unet.executor": "Run",
+    "Python.train_2D_patch_scale_aug_Unet3Plus_for_0726_6class_fulldata_8GPU.executor": "Run",
+    "Python.train_2D_patch_scale_aug_Unet3Plus_for_6class.executor": "Run",
+    "Python.train_2D_patch_scale_aug_Unet3Plus_for_6class_fulldata.executor": "Run",
+    "Python.train_2D_patch_scale_aug_Unet3Plus_for_6class_fulldata_8GPU (1).executor": "Run",
+    "Python.train_2D_patch_scale_aug_Unet3Plus_for_6class_fulldata_8GPU.executor": "Run",
+    "Python.train_2D_patch_scale_aug_Unet3Plus_ours_data_.executor": "Run",
+    "Python.train_2D_patch_scale_aug_Unet_0724.executor": "Run",
+    "Python.train_2D_patch_scale_aug_Unet_0724_ourdata.executor": "Run",
+    "Python.train_2D_patch_scale_aug_Unet_0724_ourdata_sampled.executor": "Debug",
+    "Python.train_2D_patch_scale_aug_Unet_0725_for_6class_fulldata_8GPU.executor": "Run",
+    "Python.train_2D_patch_scale_aug_Unet_for_0727_6class_fulldata_8GPU.executor": "Run",
+    "Python.train_2D_patch_scale_aug_Unet_for_0727_6class_fulldata_8GPU_resume.executor": "Debug",
+    "Python.train_2D_patch_scale_aug_Unet_for_6class.executor": "Run",
+    "Python.train_2D_patch_scale_aug_Unet_for_6class_0724.executor": "Run",
+    "Python.train_2D_patch_scale_aug_Unet_for_6class_fulldata_8GPU.executor": "Run",
+    "Python.train_2D_patch_scale_aug_Unet_ours.executor": "Run",
+    "Python.unet2D_Dodnet_scale_Attention.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/worksapce/FH-Seg",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\worksapce\Omni-Seg_revision" />
+      <recent name="D:\worksapce\Omni-Seg_revision\train_py" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/backups" />
+      <recent name="$PROJECT_DIR$/universeg" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\worksapce\Omni-Seg_revision" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Baselines" />
+      <recent name="$PROJECT_DIR$/Baselines/u2net" />
+      <recent name="$PROJECT_DIR$/Baseline/U2net" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.plot3">
+    <configuration name="Validation_FH_Attention_Seg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Omni-Seg_revision" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Validation_FH_Attention_Seg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Validation_FH_Attention_Seg_visualize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Omni-Seg_revision" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Validation_FH_Attention_Seg_visualize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Validation_FH_Seg_Attention_for_6_class_1GPU_2k" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Omni-Seg_revision" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Validation_FH_Seg_Attention_for_6_class_1GPU_2k.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Omni-Seg_revision" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/WeChat Files/wxid_iwxi1vurofnl22/FileStorage/File/2024-08" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/WeChat Files/wxid_iwxi1vurofnl22/FileStorage/File/2024-08/plot3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="unet2D_Dodnet_scale_Attention" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Omni-Seg_revision" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unet2D_Dodnet_scale_Attention.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Validation_FH_Attention_Seg" />
+      <item itemvalue="Python.Validation_FH_Attention_Seg_visualize" />
+      <item itemvalue="Python.Validation_FH_Seg_Attention_for_6_class_1GPU_2k" />
+      <item itemvalue="Python.plot3" />
+      <item itemvalue="Python.unet2D_Dodnet_scale_Attention" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.plot3" />
+        <item itemvalue="Python.Validation_FH_Attention_Seg_visualize" />
+        <item itemvalue="Python.unet2D_Dodnet_scale_Attention" />
+        <item itemvalue="Python.Validation_FH_Attention_Seg" />
+        <item itemvalue="Python.Validation_FH_Seg_Attention_for_6_class_1GPU_2k" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48bd7700-f48d-4233-aec3-c90a7733d5f5" name="Changes" comment="" />
+      <created>1699465470224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699465470224</updated>
+      <workItem from="1699465471446" duration="40987000" />
+      <workItem from="1700073059072" duration="54022000" />
+      <workItem from="1703258935694" duration="18093000" />
+      <workItem from="1704843469873" duration="17428000" />
+      <workItem from="1705877164972" duration="47107000" />
+      <workItem from="1706218669175" duration="29512000" />
+      <workItem from="1706592133999" duration="111571000" />
+      <workItem from="1707225955644" duration="3082000" />
+      <workItem from="1707321076149" duration="49545000" />
+      <workItem from="1708286514913" duration="2315000" />
+      <workItem from="1708294246920" duration="45952000" />
+      <workItem from="1708697512132" duration="609000" />
+      <workItem from="1708698774635" duration="102000" />
+      <workItem from="1708716680555" duration="299051000" />
+      <workItem from="1710513674029" duration="103336000" />
+      <workItem from="1711600956336" duration="117241000" />
+      <workItem from="1712542400334" duration="1397000" />
+      <workItem from="1712543962913" duration="2429000" />
+      <workItem from="1712563961182" duration="40602000" />
+      <workItem from="1712927446499" duration="918000" />
+      <workItem from="1713234367177" duration="1991000" />
+      <workItem from="1713307094186" duration="724000" />
+      <workItem from="1713382757515" duration="867000" />
+      <workItem from="1713536130918" duration="922000" />
+      <workItem from="1713931573053" duration="3402000" />
+      <workItem from="1713972282637" duration="71000" />
+      <workItem from="1714106905915" duration="5085000" />
+      <workItem from="1714523151634" duration="81286000" />
+      <workItem from="1715715348542" duration="2588000" />
+      <workItem from="1715979551126" duration="1760000" />
+      <workItem from="1716063760285" duration="42158000" />
+      <workItem from="1716557282200" duration="24990000" />
+      <workItem from="1719354015552" duration="1029000" />
+      <workItem from="1721632558760" duration="43527000" />
+      <workItem from="1721783939832" duration="42381000" />
+      <workItem from="1721878791516" duration="9082000" />
+      <workItem from="1721888968916" duration="64085000" />
+      <workItem from="1722068737100" duration="53321000" />
+      <workItem from="1722252311585" duration="31694000" />
+      <workItem from="1722343112399" duration="18033000" />
+      <workItem from="1722430461663" duration="590000" />
+      <workItem from="1722437327665" duration="25656000" />
+      <workItem from="1722654243130" duration="28237000" />
+      <workItem from="1722831874699" duration="2115000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1722832343424</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722832343424</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <option name="closed" value="true" />
+      <created>1722833043919</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722833043919</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <option name="closed" value="true" />
+      <created>1722833443704</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722833443704</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <option name="closed" value="true" />
+      <created>1722833457941</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722833457942</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_FS.py</url>
+          <line>526</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_FS.py</url>
+          <line>527</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_FS.py</url>
+          <line>610</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_FS.py</url>
+          <line>614</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_FS.py</url>
+          <line>612</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_FS.py</url>
+          <line>621</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_FS.py</url>
+          <line>595</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_FS.py</url>
+          <line>538</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_FS.py</url>
+          <line>579</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baselines/u2net/train_2D_patch_scale_aug_u2net.py</url>
+          <line>1115</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baselines/u2net/train_2D_patch_scale_aug_u2net.py</url>
+          <line>1120</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baselines/u2net/train_2D_patch_scale_aug_u2net.py</url>
+          <line>1199</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baselines/u2net/train_2D_patch_scale_aug_u2net.py</url>
+          <line>1238</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baselines/u2net/train_2D_patch_scale_aug_u2net.py</url>
+          <line>1318</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baselines/u2net/train_2D_patch_scale_aug_u2net.py</url>
+          <line>1277</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baselines/u2net/train_2D_patch_scale_aug_u2net.py</url>
+          <line>1116</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baselines/u2net/train_2D_patch_scale_aug_u2net.py</url>
+          <line>1156</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baselines/u2net/train_2D_patch_scale_aug_u2net.py</url>
+          <line>1196</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baselines/u2net/train_2D_patch_scale_aug_u2net.py</url>
+          <line>1235</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baselines/u2net/train_2D_patch_scale_aug_u2net.py</url>
+          <line>1274</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baselines/u2net/train_2D_patch_scale_aug_u2net.py</url>
+          <line>1315</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baselines/u2net/train_2D_patch_scale_aug_u2net.py</url>
+          <line>1161</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug.py</url>
+          <line>1646</line>
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug.py</url>
+          <line>1607</line>
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug.py</url>
+          <line>1685</line>
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug.py</url>
+          <line>1724</line>
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug.py</url>
+          <line>1763</line>
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug.py</url>
+          <line>1802</line>
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug.py</url>
+          <line>1842</line>
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Swinunetr.py</url>
+          <line>1376</line>
+          <option name="timeStamp" value="328" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Swinunetr.py</url>
+          <line>1416</line>
+          <option name="timeStamp" value="329" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Swinunetr.py</url>
+          <line>1456</line>
+          <option name="timeStamp" value="330" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Swinunetr.py</url>
+          <line>1496</line>
+          <option name="timeStamp" value="331" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Swinunetr.py</url>
+          <line>1536</line>
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Swinunetr.py</url>
+          <line>1576</line>
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Swinunetr.py</url>
+          <line>1618</line>
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Residual_Unet.py</url>
+          <line>527</line>
+          <option name="timeStamp" value="433" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Residual_Unet.py</url>
+          <line>536</line>
+          <option name="timeStamp" value="434" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Residual_Unet.py</url>
+          <line>694</line>
+          <option name="timeStamp" value="435" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Residual_Unet.py</url>
+          <line>700</line>
+          <option name="timeStamp" value="436" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Testing_2D_patch_OmniSeg_multi-class.py</url>
+          <line>579</line>
+          <option name="timeStamp" value="439" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Testing_2D_patch_OmniSeg_multi-class.py</url>
+          <line>565</line>
+          <option name="timeStamp" value="441" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Testing_2D_patch_OmniSeg_multi-class.py</url>
+          <line>563</line>
+          <option name="timeStamp" value="442" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Testing_2D_patch_OmniSeg_multi-class.py</url>
+          <line>551</line>
+          <option name="timeStamp" value="443" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_10_class.py</url>
+          <line>1044</line>
+          <option name="timeStamp" value="472" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_10_class.py</url>
+          <line>1048</line>
+          <option name="timeStamp" value="477" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_10_class.py</url>
+          <line>1047</line>
+          <option name="timeStamp" value="480" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_10_class.py</url>
+          <line>1046</line>
+          <option name="timeStamp" value="481" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_10_class.py</url>
+          <line>1045</line>
+          <option name="timeStamp" value="482" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_10_class.py</url>
+          <line>611</line>
+          <option name="timeStamp" value="552" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_10_class.py</url>
+          <line>620</line>
+          <option name="timeStamp" value="553" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_10_class.py</url>
+          <line>628</line>
+          <option name="timeStamp" value="554" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_10_class.py</url>
+          <line>622</line>
+          <option name="timeStamp" value="555" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug.py</url>
+          <line>1352</line>
+          <option name="timeStamp" value="558" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_10_class.py</url>
+          <line>213</line>
+          <option name="timeStamp" value="559" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_10_class.py</url>
+          <line>226</line>
+          <option name="timeStamp" value="560" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_10_class.py</url>
+          <line>227</line>
+          <option name="timeStamp" value="561" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_10_class.py</url>
+          <line>228</line>
+          <option name="timeStamp" value="562" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug.py</url>
+          <line>1345</line>
+          <option name="timeStamp" value="578" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug.py</url>
+          <line>1346</line>
+          <option name="timeStamp" value="579" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_UniverSeg.py</url>
+          <line>2325</line>
+          <option name="timeStamp" value="580" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_UniverSeg.py</url>
+          <line>2326</line>
+          <option name="timeStamp" value="581" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_UniverSeg.py</url>
+          <line>2328</line>
+          <option name="timeStamp" value="582" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_UniverSeg.py</url>
+          <line>2332</line>
+          <option name="timeStamp" value="583" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_UniverSeg.py</url>
+          <line>2274</line>
+          <option name="timeStamp" value="584" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_UniverSeg.py</url>
+          <line>2271</line>
+          <option name="timeStamp" value="585" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_UniverSeg.py</url>
+          <line>2275</line>
+          <option name="timeStamp" value="586" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_UniverSeg.py</url>
+          <line>2277</line>
+          <option name="timeStamp" value="587" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_UniverSeg.py</url>
+          <line>2279</line>
+          <option name="timeStamp" value="588" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_UniverSeg.py</url>
+          <line>2281</line>
+          <option name="timeStamp" value="589" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_UniverSeg_Deng.py</url>
+          <line>1328</line>
+          <option name="timeStamp" value="619" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_UniverSeg_Deng.py</url>
+          <line>1329</line>
+          <option name="timeStamp" value="625" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_UniverSeg_Deng.py</url>
+          <line>1337</line>
+          <option name="timeStamp" value="638" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_UniverSeg_Deng.py</url>
+          <line>1812</line>
+          <option name="timeStamp" value="642" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_UniverSeg_Deng.py</url>
+          <line>252</line>
+          <option name="timeStamp" value="643" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_UniverSeg_Deng.py</url>
+          <line>254</line>
+          <option name="timeStamp" value="644" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_UniverSeg_Deng.py</url>
+          <line>1205</line>
+          <option name="timeStamp" value="645" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_UniverSeg_Deng.py</url>
+          <line>1206</line>
+          <option name="timeStamp" value="646" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_UniverSeg_Deng.py</url>
+          <line>1207</line>
+          <option name="timeStamp" value="647" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_10_class.py</url>
+          <line>474</line>
+          <option name="timeStamp" value="655" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg2/model.py</url>
+          <line>402</line>
+          <option name="timeStamp" value="671" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg/model.py</url>
+          <line>225</line>
+          <option name="timeStamp" value="672" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_UniverSeg2_Deng.py</url>
+          <line>938</line>
+          <option name="timeStamp" value="687" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg/model.py</url>
+          <line>196</line>
+          <option name="timeStamp" value="696" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg/model.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="699" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg/model.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="701" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg/model.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="702" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3_10_class.py</url>
+          <line>147</line>
+          <option name="timeStamp" value="719" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3_10_class.py</url>
+          <line>128</line>
+          <option name="timeStamp" value="720" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3_10_class.py</url>
+          <line>1116</line>
+          <option name="timeStamp" value="721" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3_10_class.py</url>
+          <line>1118</line>
+          <option name="timeStamp" value="722" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3_10_class.py</url>
+          <line>1335</line>
+          <option name="timeStamp" value="723" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3_10_class.py</url>
+          <line>1337</line>
+          <option name="timeStamp" value="724" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3_10_class.py</url>
+          <line>1403</line>
+          <option name="timeStamp" value="725" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3_10_class.py</url>
+          <line>1405</line>
+          <option name="timeStamp" value="726" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3_10_class.py</url>
+          <line>1473</line>
+          <option name="timeStamp" value="727" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3_10_class.py</url>
+          <line>1476</line>
+          <option name="timeStamp" value="728" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3_10_class.py</url>
+          <line>774</line>
+          <option name="timeStamp" value="729" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3_10_class.py</url>
+          <line>776</line>
+          <option name="timeStamp" value="730" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3_10_class.py</url>
+          <line>780</line>
+          <option name="timeStamp" value="731" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3_10_class.py</url>
+          <line>732</line>
+          <option name="timeStamp" value="732" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3_10_class.py</url>
+          <line>733</line>
+          <option name="timeStamp" value="733" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3_10_class.py</url>
+          <line>727</line>
+          <option name="timeStamp" value="734" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3_10_class.py</url>
+          <line>679</line>
+          <option name="timeStamp" value="735" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3_10_class.py</url>
+          <line>685</line>
+          <option name="timeStamp" value="736" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3_10_class.py</url>
+          <line>629</line>
+          <option name="timeStamp" value="737" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3_10_class.py</url>
+          <line>636</line>
+          <option name="timeStamp" value="738" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3_10_class.py</url>
+          <line>569</line>
+          <option name="timeStamp" value="739" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3_10_class.py</url>
+          <line>574</line>
+          <option name="timeStamp" value="740" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test/model.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="741" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test/model.py</url>
+          <line>147</line>
+          <option name="timeStamp" value="742" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test/model.py</url>
+          <line>149</line>
+          <option name="timeStamp" value="743" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test/model.py</url>
+          <line>151</line>
+          <option name="timeStamp" value="744" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test/model.py</url>
+          <line>150</line>
+          <option name="timeStamp" value="745" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test/model.py</url>
+          <line>152</line>
+          <option name="timeStamp" value="746" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test/model.py</url>
+          <line>153</line>
+          <option name="timeStamp" value="747" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test/model.py</url>
+          <line>154</line>
+          <option name="timeStamp" value="748" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test/model.py</url>
+          <line>156</line>
+          <option name="timeStamp" value="749" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_10_class.py</url>
+          <line>2917</line>
+          <option name="timeStamp" value="754" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test/model.py</url>
+          <line>443</line>
+          <option name="timeStamp" value="756" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test/model.py</url>
+          <line>447</line>
+          <option name="timeStamp" value="757" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test/model.py</url>
+          <line>263</line>
+          <option name="timeStamp" value="758" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test/model.py</url>
+          <line>264</line>
+          <option name="timeStamp" value="759" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test/model.py</url>
+          <line>298</line>
+          <option name="timeStamp" value="760" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test/model.py</url>
+          <line>292</line>
+          <option name="timeStamp" value="761" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test/model.py</url>
+          <line>293</line>
+          <option name="timeStamp" value="762" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test/model.py</url>
+          <line>291</line>
+          <option name="timeStamp" value="763" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test/model.py</url>
+          <line>295</line>
+          <option name="timeStamp" value="764" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test/model.py</url>
+          <line>296</line>
+          <option name="timeStamp" value="765" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test/model.py</url>
+          <line>297</line>
+          <option name="timeStamp" value="766" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_10_class.py</url>
+          <line>1115</line>
+          <option name="timeStamp" value="767" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_10_class.py</url>
+          <line>2393</line>
+          <option name="timeStamp" value="772" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_10_class.py</url>
+          <line>2394</line>
+          <option name="timeStamp" value="773" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_one_class.py</url>
+          <line>1302</line>
+          <option name="timeStamp" value="775" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_one_class.py</url>
+          <line>1951</line>
+          <option name="timeStamp" value="784" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_one_class.py</url>
+          <line>1952</line>
+          <option name="timeStamp" value="785" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_10_class.py</url>
+          <line>1122</line>
+          <option name="timeStamp" value="786" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_10_class.py</url>
+          <line>1071</line>
+          <option name="timeStamp" value="792" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_10_class.py</url>
+          <line>1076</line>
+          <option name="timeStamp" value="793" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_10_class.py</url>
+          <line>1078</line>
+          <option name="timeStamp" value="794" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_10_class.py</url>
+          <line>1083</line>
+          <option name="timeStamp" value="795" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_10_class.py</url>
+          <line>1088</line>
+          <option name="timeStamp" value="796" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_10_class.py</url>
+          <line>1112</line>
+          <option name="timeStamp" value="800" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_10_class.py</url>
+          <line>1125</line>
+          <option name="timeStamp" value="802" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Testing_2D_patch_OmniSeg_Unet_for_10_class.py</url>
+          <line>497</line>
+          <option name="timeStamp" value="805" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Validation_2D_patch_OmniSeg_for_10_class.py</url>
+          <line>301</line>
+          <option name="timeStamp" value="810" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Validation_2D_patch_Universeg_for_10_class.py</url>
+          <line>487</line>
+          <option name="timeStamp" value="812" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Validation_2D_patch_Universeg_for_10_class.py</url>
+          <line>489</line>
+          <option name="timeStamp" value="813" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Validation_2D_patch_Universeg_for_10_class.py</url>
+          <line>490</line>
+          <option name="timeStamp" value="814" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Validation_2D_patch_Universeg_for_10_class.py</url>
+          <line>491</line>
+          <option name="timeStamp" value="815" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Testing_2D_patch_Universeg_for_10_class.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="816" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Testing_2D_patch_OmniSeg_Segmenter_for_10_class.py</url>
+          <line>743</line>
+          <option name="timeStamp" value="817" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Testing_2D_patch_OmniSeg_Segmenter_for_10_class.py</url>
+          <line>745</line>
+          <option name="timeStamp" value="818" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_UniverSeg2_Deng_test.py</url>
+          <line>257</line>
+          <option name="timeStamp" value="820" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_UniverSeg2_Deng_test2.py</url>
+          <line>263</line>
+          <option name="timeStamp" value="823" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>202</line>
+          <option name="timeStamp" value="888" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>203</line>
+          <option name="timeStamp" value="889" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>204</line>
+          <option name="timeStamp" value="890" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>206</line>
+          <option name="timeStamp" value="891" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>208</line>
+          <option name="timeStamp" value="892" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>210</line>
+          <option name="timeStamp" value="893" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>212</line>
+          <option name="timeStamp" value="894" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_UniverSeg2_Deng_test2.py</url>
+          <line>268</line>
+          <option name="timeStamp" value="895" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>332</line>
+          <option name="timeStamp" value="899" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>343</line>
+          <option name="timeStamp" value="905" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>612</line>
+          <option name="timeStamp" value="910" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_FS_10_class.py</url>
+          <line>261</line>
+          <option name="timeStamp" value="939" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_FS_10_class.py</url>
+          <line>264</line>
+          <option name="timeStamp" value="940" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_FS_10_class.py</url>
+          <line>269</line>
+          <option name="timeStamp" value="941" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>672</line>
+          <option name="timeStamp" value="956" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>674</line>
+          <option name="timeStamp" value="957" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>678</line>
+          <option name="timeStamp" value="959" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>694</line>
+          <option name="timeStamp" value="960" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>695</line>
+          <option name="timeStamp" value="966" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>696</line>
+          <option name="timeStamp" value="967" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>692</line>
+          <option name="timeStamp" value="970" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>693</line>
+          <option name="timeStamp" value="971" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>706</line>
+          <option name="timeStamp" value="972" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>707</line>
+          <option name="timeStamp" value="973" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>708</line>
+          <option name="timeStamp" value="974" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>710</line>
+          <option name="timeStamp" value="975" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>649</line>
+          <option name="timeStamp" value="976" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>657</line>
+          <option name="timeStamp" value="977" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/universeg_test2/model.py</url>
+          <line>659</line>
+          <option name="timeStamp" value="978" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_6class.py</url>
+          <line>336</line>
+          <option name="timeStamp" value="979" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_renal.py</url>
+          <line>583</line>
+          <option name="timeStamp" value="982" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_renal.py</url>
+          <line>360</line>
+          <option name="timeStamp" value="983" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_renal.py</url>
+          <line>358</line>
+          <option name="timeStamp" value="984" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_renal.py</url>
+          <line>349</line>
+          <option name="timeStamp" value="985" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_renal.py</url>
+          <line>312</line>
+          <option name="timeStamp" value="986" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AF_Unet.py</url>
+          <line>1894</line>
+          <option name="timeStamp" value="990" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet3Plus_for_6class.py</url>
+          <line>341</line>
+          <option name="timeStamp" value="1000" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_6class_0724.py</url>
+          <line>944</line>
+          <option name="timeStamp" value="1012" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_6class.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="1013" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_0724_ourdata.py</url>
+          <line>959</line>
+          <option name="timeStamp" value="1014" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AF_Unet_for_6class.py</url>
+          <line>555</line>
+          <option name="timeStamp" value="1016" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AF_Unet_for_6class.py</url>
+          <line>911</line>
+          <option name="timeStamp" value="1017" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_0724_ourdata.py</url>
+          <line>926</line>
+          <option name="timeStamp" value="1018" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_0724_ourdata.py</url>
+          <line>922</line>
+          <option name="timeStamp" value="1019" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AF_Unet3plus_for_6class.py</url>
+          <line>344</line>
+          <option name="timeStamp" value="1020" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AF_Unet_orin_for_6class.py</url>
+          <line>647</line>
+          <option name="timeStamp" value="1021" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AF_Unet_orin_for_6class.py</url>
+          <line>595</line>
+          <option name="timeStamp" value="1022" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AF_Unet_orin_for_6class.py</url>
+          <line>581</line>
+          <option name="timeStamp" value="1023" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_0724_ourdata.py</url>
+          <line>966</line>
+          <option name="timeStamp" value="1024" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_0724_ourdata.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="1025" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AF_Unet_for_6class.py</url>
+          <line>323</line>
+          <option name="timeStamp" value="1027" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_0724_ourdata.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="1028" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_0724_ourdata_sampled.py</url>
+          <line>976</line>
+          <option name="timeStamp" value="1030" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet3Plus_for_6class.py</url>
+          <line>581</line>
+          <option name="timeStamp" value="1033" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet3Plus_for_6class.py</url>
+          <line>218</line>
+          <option name="timeStamp" value="1034" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_6class_fulldata_8GPU.py</url>
+          <line>572</line>
+          <option name="timeStamp" value="1035" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_6class_fulldata_8GPU.py</url>
+          <line>399</line>
+          <option name="timeStamp" value="1036" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_0727_6class_fulldata_8GPU.py</url>
+          <line>510</line>
+          <option name="timeStamp" value="1038" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_0727_6class_fulldata_8GPU.py</url>
+          <line>559</line>
+          <option name="timeStamp" value="1039" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_0727_6class_fulldata_8GPU.py</url>
+          <line>734</line>
+          <option name="timeStamp" value="1040" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_0727_6class_fulldata_8GPU.py</url>
+          <line>568</line>
+          <option name="timeStamp" value="1041" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_0727_6class_fulldata_8GPU.py</url>
+          <line>972</line>
+          <option name="timeStamp" value="1042" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3.py</url>
+          <line>463</line>
+          <option name="timeStamp" value="1043" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3.py</url>
+          <line>529</line>
+          <option name="timeStamp" value="1044" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3.py</url>
+          <line>538</line>
+          <option name="timeStamp" value="1045" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3.py</url>
+          <line>648</line>
+          <option name="timeStamp" value="1046" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3.py</url>
+          <line>636</line>
+          <option name="timeStamp" value="1047" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3.py</url>
+          <line>685</line>
+          <option name="timeStamp" value="1048" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3.py</url>
+          <line>732</line>
+          <option name="timeStamp" value="1049" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3.py</url>
+          <line>780</line>
+          <option name="timeStamp" value="1050" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_DeepLabV3.py</url>
+          <line>791</line>
+          <option name="timeStamp" value="1051" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/network/deepv3.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="1052" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/network/deepv3.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="1053" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AttentionUnet3Plus_for_0728_6class_fulldata_8GPU.py</url>
+          <line>940</line>
+          <option name="timeStamp" value="1071" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AttentionUnet3Plus_for_0728_6class_fulldata_8GPU.py</url>
+          <line>941</line>
+          <option name="timeStamp" value="1072" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_0727_6class_fulldata_8GPU_resume.py</url>
+          <line>494</line>
+          <option name="timeStamp" value="1073" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_0727_6class_fulldata_8GPU_resume.py</url>
+          <line>510</line>
+          <option name="timeStamp" value="1075" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Unet_for_0727_6class_fulldata_8GPU_resume.py</url>
+          <line>395</line>
+          <option name="timeStamp" value="1076" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AttentionUnetPlusScale_0726.py</url>
+          <line>339</line>
+          <option name="timeStamp" value="1081" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AttentionUnetPlusScale_0726.py</url>
+          <line>543</line>
+          <option name="timeStamp" value="1082" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AttentionUnetPlusScale_0726.py</url>
+          <line>371</line>
+          <option name="timeStamp" value="1083" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AttentionUnetPlusScale_0726.py</url>
+          <line>408</line>
+          <option name="timeStamp" value="1084" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AttentionUnetPlusScale_0726.py</url>
+          <line>469</line>
+          <option name="timeStamp" value="1085" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AttentionUnetPlusScale_0726.py</url>
+          <line>535</line>
+          <option name="timeStamp" value="1087" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug.py</url>
+          <line>337</line>
+          <option name="timeStamp" value="1089" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug.py</url>
+          <line>541</line>
+          <option name="timeStamp" value="1090" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AttentionUnet3PlusScale.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="1092" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AttentionUnet3PlusScale.py</url>
+          <line>293</line>
+          <option name="timeStamp" value="1094" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AttentionUnet3Plus_for_0729_6class_partdata_1GPU.py</url>
+          <line>397</line>
+          <option name="timeStamp" value="1097" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AttentionUnet3Plus_for_0729_6class_partdata_1GPU.py</url>
+          <line>402</line>
+          <option name="timeStamp" value="1098" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AttentionUnet3Plus_for_0729_6class_partdata_1GPU.py</url>
+          <line>639</line>
+          <option name="timeStamp" value="1104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AttentionUnet3Plus_for_0729_6class_partdata_1GPU.py</url>
+          <line>620</line>
+          <option name="timeStamp" value="1105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AttentionUnet3Plus_for_0729_6class_partdata_1GPU.py</url>
+          <line>428</line>
+          <option name="timeStamp" value="1107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AttentionUnet3Plus_for_0729_6class_partdata_1GPU.py</url>
+          <line>585</line>
+          <option name="timeStamp" value="1108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AttentionUnet3Plus_for_0729_6class_partdata_1GPU.py</url>
+          <line>499</line>
+          <option name="timeStamp" value="1109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AttentionUnet3Plus_for_0729_6class_partdata_1GPU.py</url>
+          <line>561</line>
+          <option name="timeStamp" value="1110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AttentionUnet3Plus_for_0729_6class_partdata_1GPU.py</url>
+          <line>570</line>
+          <option name="timeStamp" value="1111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AttentionUnet3Plus_for_0729_6class_partdata_1GPU.py</url>
+          <line>632</line>
+          <option name="timeStamp" value="1112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_AttentionUnet3Plus_for_0729_6class_partdata_1GPU.py</url>
+          <line>231</line>
+          <option name="timeStamp" value="1114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Omniseg_for_6class.py</url>
+          <line>1376</line>
+          <option name="timeStamp" value="1116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Omniseg_for_6class.py</url>
+          <line>1383</line>
+          <option name="timeStamp" value="1118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Omniseg_for_6class.py</url>
+          <line>560</line>
+          <option name="timeStamp" value="1119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_6_class.py</url>
+          <line>400</line>
+          <option name="timeStamp" value="1120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_for_6_class.py</url>
+          <line>459</line>
+          <option name="timeStamp" value="1121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Omniseg_for_6class_1GPU.py</url>
+          <line>486</line>
+          <option name="timeStamp" value="1122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Omniseg_for_6class_1GPU.py</url>
+          <line>573</line>
+          <option name="timeStamp" value="1123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Omniseg_for_6class_1GPU.py</url>
+          <line>631</line>
+          <option name="timeStamp" value="1124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Omniseg_for_6class_1GPU.py</url>
+          <line>644</line>
+          <option name="timeStamp" value="1125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Omniseg_for_6class_1GPU.py</url>
+          <line>646</line>
+          <option name="timeStamp" value="1126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Omniseg_for_6class_1GPU.py</url>
+          <line>690</line>
+          <option name="timeStamp" value="1128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Omniseg_for_6class_1GPU.py</url>
+          <line>701</line>
+          <option name="timeStamp" value="1129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_1GPU.py</url>
+          <line>577</line>
+          <option name="timeStamp" value="1145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_1GPU.py</url>
+          <line>650</line>
+          <option name="timeStamp" value="1146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_1GPU.py</url>
+          <line>648</line>
+          <option name="timeStamp" value="1147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_1GPU.py</url>
+          <line>635</line>
+          <option name="timeStamp" value="1148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_1GPU.py</url>
+          <line>703</line>
+          <option name="timeStamp" value="1149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_1GPU.py</url>
+          <line>705</line>
+          <option name="timeStamp" value="1150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_1GPU.py</url>
+          <line>752</line>
+          <option name="timeStamp" value="1153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Validation_Attention_OmniSeg_for_6_class_2GPU_2k_need_scale.py</url>
+          <line>308</line>
+          <option name="timeStamp" value="1161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Validation_Attention_OmniSeg_for_6_class_1GPU_2k.py</url>
+          <line>522</line>
+          <option name="timeStamp" value="1163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Validation_Attention_OmniSeg_for_6_class_1GPU_2k.py</url>
+          <line>543</line>
+          <option name="timeStamp" value="1164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Validation_Attention_OmniSeg_for_6_class_1GPU_2k.py</url>
+          <line>311</line>
+          <option name="timeStamp" value="1165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Validation_Attention_OmniSeg_for_6_class_1GPU_2k.py</url>
+          <line>517</line>
+          <option name="timeStamp" value="1166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Validation_Attention_OmniSeg_for_6_class_1GPU_2k.py</url>
+          <line>539</line>
+          <option name="timeStamp" value="1168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_8GPU_16K_resume.py</url>
+          <line>472</line>
+          <option name="timeStamp" value="1170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_8GPU_16K_resume.py</url>
+          <line>469</line>
+          <option name="timeStamp" value="1171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_8GPU_16K_resume.py</url>
+          <line>449</line>
+          <option name="timeStamp" value="1172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_8GPU_16K_resume.py</url>
+          <line>912</line>
+          <option name="timeStamp" value="1173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_8GPU_16K_resume.py</url>
+          <line>904</line>
+          <option name="timeStamp" value="1174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_8GPU_16K_resume_1gpu.py</url>
+          <line>915</line>
+          <option name="timeStamp" value="1175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/unet2D_Dodnet_scale_Attention_fullscale.py</url>
+          <line>278</line>
+          <option name="timeStamp" value="1176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_8GPU_16K_resume_1gpu.py</url>
+          <line>777</line>
+          <option name="timeStamp" value="1177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_8GPU_16K_resume_1gpu.py</url>
+          <line>709</line>
+          <option name="timeStamp" value="1178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_8GPU_16K_resume_1gpu.py</url>
+          <line>651</line>
+          <option name="timeStamp" value="1180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_8GPU_16K_resume_1gpu.py</url>
+          <line>564</line>
+          <option name="timeStamp" value="1181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_8GPU_16K_resume_1gpu.py</url>
+          <line>722</line>
+          <option name="timeStamp" value="1182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_2D_patch_scale_aug_Omniseg_Unet_for_6class_1GPU_newdata.py</url>
+          <line>806</line>
+          <option name="timeStamp" value="1183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/unet2D_Dodnet_scale_Attention.py</url>
+          <line>297</line>
+          <option name="timeStamp" value="1184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Validation_FH_Attention_Seg_visualize.py</url>
+          <line>580</line>
+          <option name="timeStamp" value="1185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Documents/WeChat Files/wxid_iwxi1vurofnl22/FileStorage/File/2024-08/plot3.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="1188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Documents/WeChat Files/wxid_iwxi1vurofnl22/FileStorage/File/2024-08/plot3.py</url>
+          <line>163</line>
+          <option name="timeStamp" value="1189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Documents/WeChat Files/wxid_iwxi1vurofnl22/FileStorage/File/2024-08/plot3.py</url>
+          <line>178</line>
+          <option name="timeStamp" value="1190" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_u2net.coverage" NAME="train_2D_patch_scale_aug_u2net Coverage Results" MODIFIED="1706737908293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baselines/u2net" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_DeepLabV3__1_.coverage" NAME="train_2D_patch_scale_aug_DeepLabV3 (1) Coverage Results" MODIFIED="1721885280269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Testing_2D_patch_OmniSeg_Swinunetr_for_10_class.coverage" NAME="Testing_2D_patch_OmniSeg_Swinunetr_for_10_class Coverage Results" MODIFIED="1712109107816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_AF_Unet.coverage" NAME="train_2D_patch_scale_aug_AF_Unet Coverage Results" MODIFIED="1721885158381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_AF_Unet3plus.coverage" NAME="train_2D_patch_scale_aug_AF_Unet3plus Coverage Results" MODIFIED="1721744813344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Testing_2D_patch_OmniSeg_for_10_class.coverage" NAME="Testing_2D_patch_OmniSeg_for_10_class Coverage Results" MODIFIED="1716489221354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Validation_Attention_OmniSeg_for_6_class_2GPU_2k_need_scale.coverage" NAME="Validation_Attention_OmniSeg_for_6_class_2GPU_2k_need_scale Coverage Results" MODIFIED="1722337916273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_beta.coverage" NAME="train_2D_patch_scale_aug_beta Coverage Results" MODIFIED="1707157581031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$unet2D_Dodnet_scale_FS.coverage" NAME="unet2D_Dodnet_scale_FS Coverage Results" MODIFIED="1706043758064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Testing_2D_patch_OmniSeg_DeepLabV3.coverage" NAME="Testing_2D_patch_OmniSeg_DeepLabV3 Coverage Results" MODIFIED="1707226006652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Testing_2D_patch_OmniSeg_Unet_for_10_class.coverage" NAME="Testing_2D_patch_OmniSeg_Unet_for_10_class Coverage Results" MODIFIED="1712708359992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_UniverSeg2_Deng_16_support.coverage" NAME="train_2D_patch_scale_UniverSeg2_Deng_16_support Coverage Results" MODIFIED="1715795965068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_for_10_class.coverage" NAME="train_2D_patch_scale_aug_for_10_class Coverage Results" MODIFIED="1716351305036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_FS_10_class.coverage" NAME="train_2D_patch_scale_FS_10_class Coverage Results" MODIFIED="1716398992665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Unet.coverage" NAME="train_2D_patch_scale_aug_Unet Coverage Results" MODIFIED="1721885374741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Dice_Eval.coverage" NAME="Dice_Eval Coverage Results" MODIFIED="1714677461454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_AttentionUnet3Plus_for_0728_6class_fulldata_8GPU.coverage" NAME="train_2D_patch_scale_aug_AttentionUnet3Plus_for_0728_6class_fulldata_8GPU Coverage Results" MODIFIED="1721955233252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_OmnisegAttention_for_6class_1GPU_2K__1_.coverage" NAME="train_2D_patch_scale_aug_OmnisegAttention_for_6class_1GPU_2K (1) Coverage Results" MODIFIED="1722304542394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_OmnisegAttention_for_6class_1GPU.coverage" NAME="train_2D_patch_scale_aug_OmnisegAttention_for_6class_1GPU Coverage Results" MODIFIED="1722225464164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Validation_FH_Attention_Seg_visualize.coverage" NAME="Validation_FH_Attention_Seg_visualize Coverage Results" MODIFIED="1722705419034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Omniseg_for_6class.coverage" NAME="train_2D_patch_scale_aug_Omniseg_for_6class Coverage Results" MODIFIED="1722216961169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Unet_ours.coverage" NAME="train_2D_patch_scale_aug_Unet_ours Coverage Results" MODIFIED="1721745163789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Validation_FH_Attention_Seg.coverage" NAME="Validation_FH_Attention_Seg Coverage Results" MODIFIED="1722702981330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_FS.coverage" NAME="train_2D_patch_scale_aug_FS Coverage Results" MODIFIED="1706257373643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_AttentionUnetPlus_0726_HC_data__1_.coverage" NAME="train_2D_patch_scale_aug_AttentionUnetPlus_0726_HC_data (1) Coverage Results" MODIFIED="1722001338090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_OmnisegFullscale_for_6class_newdata.coverage" NAME="train_2D_patch_scale_aug_OmnisegFullscale_for_6class_newdata Coverage Results" MODIFIED="1722654575908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Unet3Plus_for_6class_fulldata_8GPU__1_.coverage" NAME="train_2D_patch_scale_aug_Unet3Plus_for_6class_fulldata_8GPU (1) Coverage Results" MODIFIED="1721899123812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_DeepLabV3_for_0727_6class_fulldata_8GPU.coverage" NAME="train_2D_patch_scale_aug_DeepLabV3_for_0727_6class_fulldata_8GPU Coverage Results" MODIFIED="1721915366559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Unet_for_6class.coverage" NAME="train_2D_patch_scale_aug_Unet_for_6class Coverage Results" MODIFIED="1721816255044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$MOTSDataset_2D_Patch_normal_save_csv.coverage" NAME="MOTSDataset_2D_Patch_normal_save_csv Coverage Results" MODIFIED="1716927401275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Validation_AttentionFullscale_OmniSeg_for_6_class_8GPU_16k.coverage" NAME="Validation_AttentionFullscale_OmniSeg_for_6_class_8GPU_16k Coverage Results" MODIFIED="1722327903273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Unet_for_one_class.coverage" NAME="train_2D_patch_scale_aug_Unet_for_one_class Coverage Results" MODIFIED="1711867042324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_AttentionUnet3Plus_for_0729_6class_fulldata_1GPU.coverage" NAME="train_2D_patch_scale_aug_AttentionUnet3Plus_for_0729_6class_partdata_1GPU Coverage Results" MODIFIED="1722156635950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_Swinunetr_csv_512_8class.coverage" NAME="train_2D_patch_scale_Swinunetr_csv_512_8class Coverage Results" MODIFIED="1707104124068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Residual_Unet.coverage" NAME="train_2D_patch_scale_aug_Residual_Unet Coverage Results" MODIFIED="1707181945168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Unet3Plus_for_0726_6class_fulldata_8GPU.coverage" NAME="train_2D_patch_scale_aug_Unet3Plus_for_0726_6class_fulldata_8GPU Coverage Results" MODIFIED="1721899943962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Testing_2D_patch_OmniSeg_Segmenter_for_10_class.coverage" NAME="Testing_2D_patch_OmniSeg_Segmenter_for_10_class Coverage Results" MODIFIED="1714676554067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_AttentionUnetPlus_0726.coverage" NAME="train_2D_patch_scale_aug_AttentionUnetPlus_0726 Coverage Results" MODIFIED="1721999124523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Validation_Attention_OmniSeg_for_6_class_1GPU_2k.coverage" NAME="Validation_Attention_OmniSeg_for_6_class_1GPU_2k Coverage Results" MODIFIED="1722350169401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_AttentionUnet_for_0727_6class_fulldata_8GPU.coverage" NAME="train_2D_patch_scale_aug_AttentionUnet_for_0727_6class_fulldata_8GPU Coverage Results" MODIFIED="1721925600247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_for_one_class.coverage" NAME="train_2D_patch_scale_aug_for_one_class Coverage Results" MODIFIED="1714751856749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Testing_2D_patch_OmniSeg_unet.coverage" NAME="Testing_2D_patch_OmniSeg_unet Coverage Results" MODIFIED="1707003913964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$unet2D_Dodnet_scale_Attention.coverage" NAME="unet2D_Dodnet_scale_Attention Coverage Results" MODIFIED="1722703914640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Validation_AttentionUnet3plus_patch_OmniSeg_for_6_class.coverage" NAME="Validation_AttentionUnet3plus_patch_OmniSeg_for_6_class Coverage Results" MODIFIED="1721974428399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Testing_2D_patch_OmniSeg_multi_class_for_10_class.coverage" NAME="Testing_2D_patch_OmniSeg_multi-class_for_10_class Coverage Results" MODIFIED="1712223306947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Validation_FH_Seg_Attention_for_6_class_1GPU_2k.coverage" NAME="Validation_FH_Seg_Attention_for_6_class_1GPU_2k Coverage Results" MODIFIED="1722702285723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$MOTSDataset_2D_Patch_supervise_csv_512.coverage" NAME="MOTSDataset_2D_Patch_supervise_csv_512 Coverage Results" MODIFIED="1708727746562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_UniverSeg_Deng.coverage" NAME="train_2D_patch_scale_UniverSeg_Deng Coverage Results" MODIFIED="1711139276326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Testing_2D_patch_OmniSeg_Swinunetr.coverage" NAME="Testing_2D_patch_OmniSeg_Swinunetr Coverage Results" MODIFIED="1707211328932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_UniverSeg2_Deng_test.coverage" NAME="train_2D_patch_scale_UniverSeg2_Deng_test Coverage Results" MODIFIED="1711610927465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Omniseg_for_6class_1GPU_newdata2.coverage" NAME="train_2D_patch_scale_aug_Omniseg_for_6class_1GPU_newdata2 Coverage Results" MODIFIED="1722655531483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Unet_for_6class_fulldata_8GPU.coverage" NAME="train_2D_patch_scale_aug_Unet_for_6class_fulldata_8GPU Coverage Results" MODIFIED="1721899129050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_multi_class_for_10_class.coverage" NAME="train_2D_patch_scale_aug_multi-class_for_10_class Coverage Results" MODIFIED="1712173393039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Swinunetr.coverage" NAME="train_2D_patch_scale_aug_Swinunetr Coverage Results" MODIFIED="1707153202755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug.coverage" NAME="train_2D_patch_scale_aug Coverage Results" MODIFIED="1721986574127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$model.coverage" NAME="model Coverage Results" MODIFIED="1716846657488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/universeg_test2" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$model__1_.coverage" NAME="model (1) Coverage Results" MODIFIED="1709353527409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/universeg" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Validation_2D_patch_Universeg_for_10_class.coverage" NAME="Validation_2D_patch_Universeg_for_10_class Coverage Results" MODIFIED="1712299673675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_AF_Unet_for_6class.coverage" NAME="train_2D_patch_scale_aug_AF_Unet_for_6class Coverage Results" MODIFIED="1721884939114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Segmenter_for_10_class.coverage" NAME="train_2D_patch_scale_aug_Segmenter_for_10_class Coverage Results" MODIFIED="1711627862448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Testing_2D_patch_OmniSeg_Mult_label.coverage" NAME="Testing_2D_patch_OmniSeg_Mult-label Coverage Results" MODIFIED="1707167238738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Testing_2D_patch_OmniSeg.coverage" NAME="Testing_2D_patch_OmniSeg Coverage Results" MODIFIED="1707265971594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Testing_2D_patch_OmniSeg_unet__1_.coverage" NAME="Testing_2D_patch_OmniSeg_unet (1) Coverage Results" MODIFIED="1706715532762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_DeepLabV3.coverage" NAME="train_2D_patch_scale_aug_DeepLabV3 Coverage Results" MODIFIED="1721915020566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Validation_Unet_patch_OmniSeg_for_6_class.coverage" NAME="Validation_Unet_patch_OmniSeg_for_6_class Coverage Results" MODIFIED="1721969951175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$MOTSDataset_2D_Patch_normal_for_512.coverage" NAME="MOTSDataset_2D_Patch_supervise_normal_csv_512 Coverage Results" MODIFIED="1708816517846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Testing_2D_patch_OmniSeg_Unet.coverage" NAME="Testing_2D_patch_OmniSeg_Unet Coverage Results" MODIFIED="1707210879772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Edit_CSV.coverage" NAME="Edit_CSV Coverage Results" MODIFIED="1714524696248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_for_UniverSeg.coverage" NAME="train_2D_patch_scale_aug_for_UniverSeg Coverage Results" MODIFIED="1708451816312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Unet_0724_ourdata_sampled.coverage" NAME="train_2D_patch_scale_aug_Unet_0724_ourdata_sampled Coverage Results" MODIFIED="1721893570827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Testing_2D_patch_OmniSeg_DeepLabV3_for_10_class.coverage" NAME="Testing_2D_patch_OmniSeg_DeepLabV3_for_10_class Coverage Results" MODIFIED="1715244081817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Unet_0724_ourdata.coverage" NAME="train_2D_patch_scale_aug_Unet_0724_ourdata Coverage Results" MODIFIED="1721892490379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_1GPU.coverage" NAME="train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_1GPU Coverage Results" MODIFIED="1722305531058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Validation_AttentionFullscale_OmniSeg_for_6_class_8GPU_16k_need_scale.coverage" NAME="Validation_AttentionFullscale_OmniSeg_for_6_class_8GPU_16k_need_scale Coverage Results" MODIFIED="1722347976330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Testing_2D_patch_OmniSeg_beta.coverage" NAME="Testing_2D_patch_OmniSeg_beta Coverage Results" MODIFIED="1705960344760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_UniverSeg2_Deng_test2.coverage" NAME="train_2D_patch_scale_UniverSeg2_Deng_test2 Coverage Results" MODIFIED="1716850371585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_2GPU_16K.coverage" NAME="train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_2GPU_16K Coverage Results" MODIFIED="1722254959986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Unet_for_10_class.coverage" NAME="train_2D_patch_scale_aug_Unet_for_10_class Coverage Results" MODIFIED="1712700427389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Omniseg_for_6class_1GPU.coverage" NAME="train_2D_patch_scale_aug_Omniseg_for_6class_1GPU Coverage Results" MODIFIED="1722568770524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$unet2D_Dodnet_scale.coverage" NAME="unet2D_Dodnet_scale Coverage Results" MODIFIED="1706917629024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_OmnisegAttention_for_6class_1GPU_2K_resume.coverage" NAME="train_2D_patch_scale_aug_OmnisegAttention_for_6class_1GPU_2K_resume Coverage Results" MODIFIED="1722392372691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Unet3Plus_for_6class_fulldata.coverage" NAME="train_2D_patch_scale_aug_Unet3Plus_for_6class_fulldata_8GPU Coverage Results" MODIFIED="1721896733880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_for_single_UniverSeg.coverage" NAME="train_2D_patch_scale_aug_for_single_UniverSeg Coverage Results" MODIFIED="1708458656977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Unet3Plus_ours_data_.coverage" NAME="train_2D_patch_scale_aug_Unet3Plus_ours_data Coverage Results" MODIFIED="1721746265954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Unet_for_6class_0724.coverage" NAME="train_2D_patch_scale_aug_Unet_for_6class_0724 Coverage Results" MODIFIED="1721819855005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Segmenter__1_.coverage" NAME="train_2D_patch_scale_aug_Segmenter (1) Coverage Results" MODIFIED="1707148937847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baselines" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Unet3Plus_for_6class.coverage" NAME="train_2D_patch_scale_aug_Unet3Plus_for_6class Coverage Results" MODIFIED="1721895903060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_AttentionUnetPlusScale_0726.coverage" NAME="train_2D_patch_scale_aug_AttentionUnetPlusScale_0726 Coverage Results" MODIFIED="1721989089556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Unet_0725_for_6class_fulldata_8GPU.coverage" NAME="train_2D_patch_scale_aug_Unet_0725_for_6class_fulldata_8GPU Coverage Results" MODIFIED="1721899490202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Omniseg_Unet_for_6class_1GPU_newdata.coverage" NAME="train_2D_patch_scale_aug_Omniseg_Unet_for_6class_1GPU_newdata Coverage Results" MODIFIED="1722574970797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Validation_2D_patch_OmniSeg_for_10_class.coverage" NAME="Validation_2D_patch_OmniSeg_for_10_class Coverage Results" MODIFIED="1716226141461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_unet.coverage" NAME="train_2D_patch_scale_aug_unet Coverage Results" MODIFIED="1706990868235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_AF_Unet_orin_for_6class.coverage" NAME="train_2D_patch_scale_aug_AF_Unet_orin_for_6class Coverage Results" MODIFIED="1721823657159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Testing_2D_patch_OmniSeg_multi_class.coverage" NAME="Testing_2D_patch_OmniSeg_multi-class Coverage Results" MODIFIED="1707324640778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_8GPU_16K_resume.coverage" NAME="train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_8GPU_16K_resume Coverage Results" MODIFIED="1722393319952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_AF_Unet3plus_for_6class.coverage" NAME="train_2D_patch_scale_aug_AF_Unet3plus_for_6class Coverage Results" MODIFIED="1721816187102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_DeepLabV3_10_class.coverage" NAME="train_2D_patch_scale_aug_DeepLabV3_10_class Coverage Results" MODIFIED="1712110102470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Swinunetr_for_10_class.coverage" NAME="train_2D_patch_scale_aug_Swinunetr_for_10_class Coverage Results" MODIFIED="1711601729091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Segmenter.coverage" NAME="train_2D_patch_scale_aug_Segmenter Coverage Results" MODIFIED="1707194538612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_UniverSeg2_Deng.coverage" NAME="train_2D_patch_scale_UniverSeg2_Deng Coverage Results" MODIFIED="1716927542193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$plot3.coverage" NAME="plot3 Coverage Results" MODIFIED="1722733107072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/wxid_iwxi1vurofnl22/FileStorage/File/2024-08" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$unet2D_Dodnet_scale_for_10_class.coverage" NAME="unet2D_Dodnet_scale_for_10_class Coverage Results" MODIFIED="1716402169658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$MOTSDataset_2D_Patch_supervise_normal_csv_512.coverage" NAME="MOTSDataset_2D_Patch_supervise_normal_csv_512 Coverage Results" MODIFIED="1709669570019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Patch_Testing_OmniSeg.coverage" NAME="Patch_Testing_OmniSeg Coverage Results" MODIFIED="1703374397831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Unet_for_0727_6class_fulldata_8GPU_resume.coverage" NAME="train_2D_patch_scale_aug_Unet_for_0727_6class_fulldata_8GPU_resume Coverage Results" MODIFIED="1721969062042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_multi_class.coverage" NAME="train_2D_patch_scale_aug_multi-class Coverage Results" MODIFIED="1707324702964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_Unet_for_0727_6class_fulldata_8GPU.coverage" NAME="train_2D_patch_scale_aug_Unet_for_0727_6class_fulldata_8GPU Coverage Results" MODIFIED="1721911770453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$test_XX.coverage" NAME="test_XX Coverage Results" MODIFIED="1712544005214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Testing_2D_patch_Universeg_for_10_class.coverage" NAME="Testing_2D_patch_Universeg_for_10_class Coverage Results" MODIFIED="1715240120940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Edit_SubCSV.coverage" NAME="Edit_SubCSV Coverage Results" MODIFIED="1716235436570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$testnew.coverage" NAME="train_2D_patch_scale_aug_Unet_0724 Coverage Results" MODIFIED="1721819835220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$Testing_2D_patch_OmniSeg_Segmenter.coverage" NAME="Testing_2D_patch_OmniSeg_Segmenter Coverage Results" MODIFIED="1709669389368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$MOTSDataset_2D_Patch_normal.coverage" NAME="MOTSDataset_2D_Patch_normal Coverage Results" MODIFIED="1706940695377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Omni_Seg_revision$train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_8GPU_16K_resume_1gpu.coverage" NAME="train_2D_patch_scale_aug_OmnisegAttentionFullscale_for_6class_8GPU_16K_resume_1gpu Coverage Results" MODIFIED="1722394920252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
