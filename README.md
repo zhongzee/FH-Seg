@@ -6,8 +6,7 @@ Accurate fine-grained segmentation of the renal vasculature is critical for neph
 2. [Installation](#Installation)
 3. [Demo](#Demo)
 4. [Experiments](#Experiments)
-5. [TODO](#TODO)
-6. [Acknowledgement](#Acknowledgement)
+
 
 ### Requirements
 - Python 3.7.0
@@ -30,7 +29,7 @@ Accurate fine-grained segmentation of the renal vasculature is critical for neph
 python train_2D_patch_scale_aug_FH_Seg_for_6class_1GPU.py  # single-gpu training on gpu 0
 ```
 
-3.Run the test code
+3. Run the test code
 ```
 python Validation_FH_Seg_for_6_class_1GPU_2k.py
 ```
